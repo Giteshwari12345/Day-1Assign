@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<button type="button" onclick="document.write('GITESHWARI')">Click to display on browser</button>
+ <button type="button" onclick="console.log('GITESHWARI')">click to display on console</button>
+ <button type="button" onclick="window.alert('GITESHWARI')">Click to display on window</button>
+ 
+</head>
+</html>
