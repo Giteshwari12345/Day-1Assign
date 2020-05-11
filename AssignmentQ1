@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+  
+  function largernumber(p,q,r) 
+  {
+  if(p>q && p>r)
+  {
+  return p;
+  }
+  else if (q<r)
+  {
+  return q;
+  }
+  else 
+  {
+  return r;
+  }
+}
+var p=10; q=20; r=15;
+document.write(largernumber(p,q,r));
+
+     </script>
+</head>
+</html>
